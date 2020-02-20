@@ -1,0 +1,62 @@
+In archive C:/esp/Projects/Week3Opdracht2/build/esp-idf/main/libmain.a:
+
+week3opdracht2.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.add_data 00000020  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.producerTask 0000001c  00000000  00000000  00000054  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.remove_data 00000020  00000000  00000000  00000070  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .literal.consumerTask 0000001c  00000000  00000000  00000090  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  4 .literal.get_data 0000000c  00000000  00000000  000000ac  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  5 .literal.app_main 00000030  00000000  00000000  000000b8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  6 .text         00000000  00000000  00000000  000000e8  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  7 .data         00000000  00000000  00000000  000000e8  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  8 .bss          00000000  00000000  00000000  000000e8  2**0
+                  ALLOC
+  9 .rodata.str1.4 0000004d  00000000  00000000  000000e8  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 10 .text.add_data 00000057  00000000  00000000  00000138  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 11 .text.producerTask 00000050  00000000  00000000  00000190  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 12 .text.remove_data 0000004f  00000000  00000000  000001e0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 13 .text.consumerTask 00000050  00000000  00000000  00000230  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 14 .text.get_data 00000032  00000000  00000000  00000280  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 15 .text.app_main 0000005a  00000000  00000000  000002b4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 16 .debug_frame  000000a0  00000000  00000000  00000310  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_info   000005ba  00000000  00000000  000003b0  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_abbrev 000001c4  00000000  00000000  0000096a  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 19 .debug_loc    00000074  00000000  00000000  00000b2e  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 20 .debug_aranges 00000048  00000000  00000000  00000ba2  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 21 .debug_ranges 00000038  00000000  00000000  00000bea  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 22 .debug_line   000002a3  00000000  00000000  00000c22  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 23 .debug_str    0000032a  00000000  00000000  00000ec5  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 24 .comment      0000003c  00000000  00000000  000011ef  2**0
+                  CONTENTS, READONLY
+ 25 .xtensa.info  00000038  00000000  00000000  0000122b  2**0
+                  CONTENTS, READONLY
+ 26 .xt.lit       00000030  00000000  00000000  00001263  2**0
+                  CONTENTS, RELOC, READONLY
+ 27 .xt.prop      00000168  00000000  00000000  00001293  2**0
+                  CONTENTS, RELOC, READONLY
