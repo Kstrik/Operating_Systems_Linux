@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/apphellocmake.dir/hellocmake.c.o  -o apphellocmake 

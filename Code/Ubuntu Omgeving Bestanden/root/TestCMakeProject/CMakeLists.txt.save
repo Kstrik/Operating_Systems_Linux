@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+
+project(app_CMakeProject)
+
+add_executable(apphellocmake hellocmake.c)
+
+install(TARGETS apphellocmake DESTINATION bin)

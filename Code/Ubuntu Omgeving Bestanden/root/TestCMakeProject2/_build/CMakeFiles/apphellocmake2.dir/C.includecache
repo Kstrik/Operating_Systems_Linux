@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/TestCMakeProject2/hellocmake.c
+include/hellofunc.h
+/root/TestCMakeProject2/include/hellofunc.h
+
+/root/TestCMakeProject2/hellofunc.c
+include/hellofunc.h
+/root/TestCMakeProject2/include/hellofunc.h
+
+/root/TestCMakeProject2/include/hellofunc.h
+stdio.h
+-
+

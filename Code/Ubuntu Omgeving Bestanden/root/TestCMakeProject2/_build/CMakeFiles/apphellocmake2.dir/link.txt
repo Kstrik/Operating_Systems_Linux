@@ -1,0 +1,2 @@
+/usr/bin/ar qc libapphellocmake2.a  CMakeFiles/apphellocmake2.dir/hellocmake.c.o CMakeFiles/apphellocmake2.dir/hellofunc.c.o
+/usr/bin/ranlib libapphellocmake2.a

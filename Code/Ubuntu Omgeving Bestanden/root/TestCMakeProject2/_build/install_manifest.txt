@@ -1,0 +1,2 @@
+/root/TestCMakeProject2/_install/lib/libapphellocmake2.a
+/root/TestCMakeProject2/_install/include/hellofunc.h

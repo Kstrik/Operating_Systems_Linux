@@ -1,0 +1,7 @@
+/root/TestCMakeProject2/_build/CMakeFiles/install/strip.dir
+/root/TestCMakeProject2/_build/CMakeFiles/edit_cache.dir
+/root/TestCMakeProject2/_build/CMakeFiles/apphellocmake2.dir
+/root/TestCMakeProject2/_build/CMakeFiles/list_install_components.dir
+/root/TestCMakeProject2/_build/CMakeFiles/install/local.dir
+/root/TestCMakeProject2/_build/CMakeFiles/rebuild_cache.dir
+/root/TestCMakeProject2/_build/CMakeFiles/install.dir

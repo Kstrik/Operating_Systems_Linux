@@ -1,0 +1,1 @@
+/root/TestCMakeProject/_install/bin/apphellocmake
